@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LokitheGr8
-- 👀 I’m interested in learning Js
+- 👀 I’m interested in learning PY
 - 🌱 I’m currently learning PY
 
 <!---
